@@ -1,0 +1,54 @@
+
+# Unity generated folders
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Ww]ebGLBuilds/
+[Ww]ebGLBuilds_old/
+[Cc]odeMonkey/
+[Pp]lugins/
+[Tt]extMesh Pro/
+[Ll]ootLockerSDK/
+[Pp]rojectSettings/
+[Uu]serSettings/
+[Ll]ogs/
+[Pp]ackages/
+
+# Unity generated files
+*.bak
+*.swp
+*.user
+*.userprefs
+*.pidb.meta
+*.pidb
+*.unityproj
+*.dll.mdb
+*.cache
+*.3DS_STORE
+
+# Visual Studio generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# macOS generated files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
